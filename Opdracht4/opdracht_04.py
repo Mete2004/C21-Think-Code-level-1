@@ -1,4 +1,4 @@
-age = 
+age = 16
 
 if conditie:
     print(True)
