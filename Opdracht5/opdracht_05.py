@@ -7,9 +7,8 @@ def favorite_foods(name):
     print("One of my favorite foods is", name)
 
  
+favorite_foods("burger")
 
-    favorite_foods("burger")
+favorite_foods("candy")
 
-    favorite_foods("candy")
-
-    favorite_foods("noodle")
+favorite_foods("noodle")
